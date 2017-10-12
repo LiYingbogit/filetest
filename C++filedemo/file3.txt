@@ -1,0 +1,7 @@
+假期需要完成的准备工作：
+1、阅读论文。我们实验室主要是做FPGA上的深度学习硬件加速，和寒武纪的工作有很大相似度。paper目录下主要是寒武纪近年来发表的深度学习加速器相关论文，最好能在10月前把这些论文读完。（每篇论文完成一份200字左右的阅读报告，对“为什么做这项工作”，“怎么做的”，“带来的性能提升及原因”进行分析说明）
+2、搭建开发环境。需要安装ubuntu双系统（虚拟机不行），并在ubuntu下安装caffe深度学习框架，以及FPGA开发套件Vivado IDE。
+   a. ubuntu安装14.04.3版本，镜像下载链接：链接：http://pan.baidu.com/s/1slnunVJ 密码：pvlf
+   b. caffe框架安装包和安装说明在tool installation目录下
+   c. Vivado IDE下载链接：https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html（选择2016.1版本对应的Vivado HLx 2016.1: All OS Installer Single-File Download，下载前需要完成Xilinx官网的用户注册）
+3、学习使用caffe，可参考：http://www.cnblogs.com/denny402/tag/caffe/default.html?page=2
